@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stev110
 - 👀 I’m interested in 3D Modelling, Gaming and some other stuff.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning C++, Python(Tensorflow)
 - 💞️ I’m looking to collaborate on multiple things.
 - 📫 How to reach me ...
 
