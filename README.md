@@ -2,7 +2,7 @@
 - 👀 I’m interested in 3D Modelling, Gaming and some other stuff.
 - 🌱 I’m currently learning JavaScript, Python(Tensorflow)
 - 💞️ I’m looking to collaborate on multiple things.
-- 📫 How to reach me ...
+- 📫 How to reach me is here and by mentioning me
 
 <!---
 Stev110/Stev110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
